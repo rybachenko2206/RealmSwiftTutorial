@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RealmSwiftApp/Classes/Controllers/PersonsViewController.swift"
+            timestampString = "512475903.249565"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmSwiftApp.PersonsViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "RealmSwiftApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/HDD/TEST_PROJECTS/RealmSwiftApp/RealmSwiftApp/Classes/Controllers/PersonsViewController.swift"
+                  timestampString = "512475903.255044"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1850">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RealmSwiftApp.PersonsViewController.(viewDidLoad () -&gt; ()).(closure #1).(closure #3)"
+                  moduleName = "RealmSwiftApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/HDD/TEST_PROJECTS/RealmSwiftApp/RealmSwiftApp/Classes/Controllers/PersonsViewController.swift"
+                  timestampString = "512475903.258881"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
